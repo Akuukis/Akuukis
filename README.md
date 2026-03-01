@@ -1,4 +1,6 @@
-## Hi there 👋
+[![committers.top badge](https://user-badge.committers.top/latvia_public/Akuukis.svg)](https://user-badge.committers.top/latvia_public/Akuukis)
+
+## Hi, my nickname is Akuukis 👋
 
 <!--
 **Akuukis/Akuukis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
